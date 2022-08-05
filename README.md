@@ -10,7 +10,12 @@ With these parameters the program randomly picks a restaurant.
 
 You can read more about the project in detail [here](https://www.kellyjadams.com/post/restaurant-picker-project).
 
-## Note
+## Notes
+This program is dead simple. There is no option for the program to ask the user for their own restaurant choice (at least right now though this maybe something I do in the future). Why? Because I made this program for me. To solve a problem I have. I included restaurants I frequent along with what I consider "cheap" or "expensive". I also wanted to complete a project that was challenging yet doable with my current skill level. I may expand this program in the future but this is the first edition. 
+
+There is no option to replay the picker. Because that's the whole dilemma. Once it picks. It's done. That's it. Live with the decision.
+
+## Expansion
 I plan on expanding this project in the future. Here are a few features I want to add:
 - Let the user input their own choices through a prompt.
 - Webscrape restaurant data from Google
