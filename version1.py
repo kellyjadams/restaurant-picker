@@ -28,7 +28,7 @@ inNOut = restaurant(cuisine ='American', expense = 'Cheap', name='In N Out')
 kfc = restaurant(cuisine ='American', expense='Cheap', name='KFC')
 canes = restaurant(cuisine ='American', expense='Cheap', name='Raising Canes')
 
-chillis = restaurant(cuisine ='American', expense='Not Bad', name="Chilli's")
+chilis = restaurant(cuisine ='American', expense='Not Bad', name="Chili's")
 blackbear = restaurant(cuisine ='American', expense='Not Bad', name="Black Bear Dinner")
 twoChicks = restaurant(cuisine ='American', expense='Not Bad', name="Two Chicks")
 
@@ -49,7 +49,7 @@ ijji4 = restaurant(cuisine ='Asian', expense='Expensive', name='Ijji 4')
 
 # Mexican
 tacoBell = restaurant(cuisine ='Mexican', expense='Cheap', name = 'Taco Bell')
-lostTresToritos = restaurant(cuisine ='Mexican', expense='Cheap', name = 'Lost Tres Toritos')
+losTresToritos = restaurant(cuisine ='Mexican', expense='Cheap', name = 'Los Tres Toritos')
 chipotle = restaurant(cuisine ='Mexican', expense='Cheap', name='Chipotle')
 
 miguels = restaurant(cuisine ='Mexican', expense='Not Bad', name="Miguel's")
@@ -74,7 +74,7 @@ all_restaurants = [
     ijji2,
     ijji4,
     tacoBell,
-    lostTresToritos,
+    losTresToritos,
     chipotle,
     miguels,
     tacosElRey
