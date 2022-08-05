@@ -19,3 +19,11 @@ There is no option to replay the picker. Because that's the whole dilemma. Once 
 I plan on expanding this project in the future. Here are a few features I want to add:
 - Let the user input their own choices through a prompt.
 - Webscrape restaurant data from Google
+
+## Problems
+Below are problems/critiques people have already pointed out to me. I will address these in V2 of the program. 
+- Line 99 use print rather than return 
+- Use double quotes throughout the entire program
+- add `if __name__ == '__main__'do:` in the class
+- Resturants are constants so it should be using capitals
+- Class object names should be in Pascal case.
